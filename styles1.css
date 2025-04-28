@@ -14,7 +14,7 @@ body {
 }
 
 .flores {
-  opacity: 0;
+  opacity: 1;
 }
 
 #qrcode {
@@ -183,7 +183,7 @@ b2 {
   margin-top: -100px;
   z-index: -1;
   position: relative;
-  opacity: 0;
+  opacity: 1;
 }
 
 .totens {
@@ -559,7 +559,7 @@ a {
 .container2,
 .container3,
 .container4 {
-  opacity: 0;
+  opacity: 1;
   transition: opacity 1.5s ease-out;
   margin-top: 80px;
 }
