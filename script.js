@@ -25,7 +25,7 @@
    }
 
 document.addEventListener('DOMContentLoaded', function() {
-  const countdownDate = new Date('August 31, 2024 12:00:00').getTime();
+  const countdownDate = new Date('August 31, 2025 12:00:00').getTime();
 
   const daysElement = document.getElementById('days');
   const hoursElement = document.getElementById('hours');
